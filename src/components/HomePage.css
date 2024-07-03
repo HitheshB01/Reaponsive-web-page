@@ -1,0 +1,21 @@
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh; /* Adjust height to account for the navbar */
+    text-align: center;
+    background-color: #161f4b;
+    color:white
+
+  }
+  
+  .home-page h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home-page p {
+    font-size: 1.25rem;
+  }
+  
